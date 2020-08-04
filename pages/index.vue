@@ -1,6 +1,7 @@
 <template>
   <div>
     <Header></Header>
+    <div class="demo"></div>
   </div>
 </template>
 
@@ -13,3 +14,8 @@ export default {
   },
 }
 </script>
+<style lang="scss" scoped>
+.demo {
+  height: 2000px;
+}
+</style>
