@@ -2,8 +2,12 @@
   <header class="header">
     <b-container fluid class="header-container">
       <b-row align-v="center">
-        <b-col><b-icon icon="list"></b-icon></b-col>
-        <b-col>.Pass</b-col>
+        <b-col>
+          <b-icon icon="list"></b-icon>
+        </b-col>
+        <b-col>
+          <router-link to="/">.Pass</router-link>
+        </b-col>
         <b-col><b-icon icon="box-arrow-in-right"></b-icon></b-col>
       </b-row>
     </b-container>
