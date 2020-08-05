@@ -3,10 +3,10 @@
     <Header></Header>
     <b-container>
       <b-row>
-        <b-col sm="4">
+        <b-col sm="3">
           <Mgnav></Mgnav>
         </b-col>
-        <b-col sm="8">
+        <b-col sm="9">
           試作中
         </b-col>
       </b-row>
