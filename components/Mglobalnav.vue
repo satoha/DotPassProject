@@ -55,5 +55,8 @@ button {
     background-color: $pri-color;
   }
   cursor: pointer;
+  &-body {
+    padding: 10px;
+  }
 }
 </style>

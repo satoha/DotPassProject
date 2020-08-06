@@ -51,6 +51,8 @@ $w: white;
   height: 60px;
   color: $w;
   font-size: 36px;
+  position: fixed;
+  z-index: 200;
   &-container {
     height: 60px;
   }

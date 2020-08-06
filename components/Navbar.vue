@@ -83,7 +83,7 @@ $w: white;
       }
       cursor: pointer;
       border-bottom: solid 1px $w;
-      margin-top: 10px;
+      margin-top: 15px;
     }
   }
   hr {
